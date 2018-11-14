@@ -1,3 +1,4 @@
+//menu driven operation on linear array
 #include<iostream>
 using namespace std;
 int inserting(int arr[],int l)
