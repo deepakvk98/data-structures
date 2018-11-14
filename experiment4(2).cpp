@@ -1,3 +1,5 @@
+
+//doubly link list(circular)
 #include<iostream>
 using namespace std;
 struct node
